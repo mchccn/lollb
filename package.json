@@ -1,0 +1,25 @@
+{
+  "name": "lollb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "kelly <cursors.owo.uwu@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "dotenv": "^16.0.2",
+    "express": "^4.18.1",
+    "node-fetch": "^3.2.10",
+    "ws": "^8.8.1"
+  },
+  "type": "module",
+  "devDependencies": {
+    "@types/express": "^4.17.14",
+    "@types/node": "^18.7.18",
+    "@types/ws": "^8.5.3"
+  }
+}
